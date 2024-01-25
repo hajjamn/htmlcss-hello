@@ -1,4 +1,4 @@
-h1 {
+h1, span {
     color: red;
     text-align: center;
 }
@@ -8,9 +8,10 @@ body {
 }
 
 #omino-che-saluta {
-    width: 20vw;
-    height: 20vh;
+    width: 200px;
+    height: 200px;
     background-color: black;
     margin: auto;
-    line-height: 100%;
+    border-radius: 100%;
+    vertical-align: center;
 }
