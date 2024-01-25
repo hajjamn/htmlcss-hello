@@ -1,5 +1,4 @@
 h1, #omino-che-saluta {
-    color: red;
     text-align: center;
 }
 
@@ -17,6 +16,7 @@ body {
 }
 
 span {
-    height: 200px;
-    line-height: 100%;
+line-height: 200px;
+font-size: 30px;
+color: red;
 }
